@@ -108,4 +108,5 @@ python -m pytest
 
 ## Link Video Demo YouTube
 
-[Link ke Video Demo akan ditambahkan di sini]
+https://youtu.be/cjs0RRmdrms?si=r56Rw4cfE8UrvhM3
+
