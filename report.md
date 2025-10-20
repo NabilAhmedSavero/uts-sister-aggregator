@@ -95,4 +95,9 @@ Endpoint `/stats` menyediakan metrik yang merefleksikan efektivitas keputusan de
 
 ## Sitasi
 
+
 Tanenbaum, A. S., & Van Steen, M. (2023). *Distributed systems* (4th ed.). Maarten van Steen.
+
+## Link Video Demo YouTube
+
+https://youtu.be/cjs0RRmdrms?si=r56Rw4cfE8UrvhM3
